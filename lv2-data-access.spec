@@ -7,7 +7,7 @@ License:	ISC
 Group:		Libraries
 Source0:	http://lv2plug.in/spec/%{name}-%{version}.tar.bz2
 # Source0-md5:	e8bb5e5d3cd3ac05c5b78565f3c4ec66
-URL:		http://lv2plug.in/
+URL:		http://lv2plug.in/ns/ext/data-access/
 BuildRequires:	python >= 1:2.6
 BuildRequires:	python-modules >= 1:2.6
 Requires:	lv2core >= 6.0
